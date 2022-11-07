@@ -6,7 +6,7 @@
 
 ### 手法概要と結果
 アーキテクチャの全体概要としては以下の図の通りです
-![アーキテクチャ概要]("https://github.com/HayatoKato/Omoroki/blob/main/img/architecture.png")
+![アーキテクチャ概要]("https://github.com/HayatoKato/test_image/tree/main/img")
 
 コンペ期間中は以下の三つのモデルを検討
 1. LightGBM
