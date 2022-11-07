@@ -6,7 +6,7 @@
 
 ### 手法概要と結果
 アーキテクチャの全体概要としては以下の図の通りです
-![アーキテクチャ概要]("https://github.com/HayatoKato/test_image/blob/main/architecture.png")
+![アーキテクチャ概要](https://github.com/HayatoKato/test_image/blob/main/architecture.png?raw=true)
 
 コンペ期間中は以下の三つのモデルを検討
 1. LightGBM
